@@ -1,2 +1,4 @@
-"Alanna Langness" 
+Alanna Langness
+langnesa@oregonstate.edu
+gray
 dreamville
